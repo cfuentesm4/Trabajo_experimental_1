@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "nombre": "carla",
+    "apellido": "fuentes",
+    "email": "carla@gmail.com",
+    "carnet": "00010",
+    "notas": {
+      "ingles": [
+        10.0
+      ]
+    },
+    "materias": [
+      "ingles"
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "carla",
+    "apellido": "fuentes",
+    "email": "carla@gmail.com",
+    "carnet": "0001",
+    "notas": {
+      "matematica": [
+        17.0
+      ],
+      "ingles": [
+        19.0
+      ]
+    },
+    "materias": [
+      "ingles",
+      "matematica"
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "pedro",
+    "apellido": "perez",
+    "email": "pedro@gmail.com",
+    "carnet": "0002",
+    "notas": {},
+    "materias": []
+  }
+]
